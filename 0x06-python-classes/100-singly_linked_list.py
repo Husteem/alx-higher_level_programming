@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-'''Define classes for a singly_linked_list'''
+'''Define classes for a singly_linked_list here'''
 
 
 class Node:
