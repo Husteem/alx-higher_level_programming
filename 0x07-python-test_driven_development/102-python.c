@@ -2,8 +2,9 @@
 
 /**
  * print_python_string - a function that prints
- * info about Python strings.
+ * information about Python strings.
  * @p: A PyObject string object.
+ *husteem
  */
 void print_python_string(PyObject *p)
 {
