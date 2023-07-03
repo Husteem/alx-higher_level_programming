@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """a script that takes in a URL and an email, sends a POST request to same,
-use same as parameter and displays the body of the response (decoded in utf-8). teem
+use same as parameter and displays the body of the response (decoded in utf-8)
 """
 import sys
 import urllib.request
