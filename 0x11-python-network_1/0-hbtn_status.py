@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""a script that getches url"""
+"""a script that getches url. teen"""
 import urllib.request
 
-url = "https://alx-intranet.hbtn.io/status. teem"
+url = "https://alx-intranet.hbtn.io/status"
 
 with urllib.request.urlopen(url) as response:
     body = response.read()
